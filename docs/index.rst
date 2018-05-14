@@ -11,8 +11,7 @@ Welcome to test_git_sphinx's documentation!
    
    France
    Chine
-   
-
+   source\includeme
 
 
 
